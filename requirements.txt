@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain-groq
+langchain-openai
+langchain-community
+streamlit
+python-dotenv
+chromadb
+sentence-transformers
